@@ -1,13 +1,16 @@
-# Git and GitHub Basics
+# This is an educational repository, used for experimental learning. This is not a complete project to be reviewed.
+
+
+## Git and GitHub Basics
 
 This repository contains the reference materials for engineers who need to learn and practice the basics of version control using Git and GitHub.
 
-## Contents
+### Contents
 
 - [Version Control Basics](version-control-basics.md)
 - [Git Origins and History](git-origins-history.md)
 
-### Activities
+#### Activities
 
 - [Pre-requisites](activities.md#pre-requisites)
 - [Activity 1: Fork an existing GitHub Repository](activities.md#activity-1-fork-an-existing-github-repository)
@@ -19,7 +22,7 @@ This repository contains the reference materials for engineers who need to learn
 
 ---
 
-## Resources
+### Resources
 
 - [Official Git Website](https://git-scm.com/) - The official Git website, with documentation, downloads, and more.
 - [Oh-my-Git!](https://ohmygit.org/) - A fun and interactive way to learn Git - download the binary, and install to play the game.
@@ -35,7 +38,7 @@ This repository contains the reference materials for engineers who need to learn
 
 ---
 
-## Flow
+### Flow
 
 Git Origins and History -> Setting up Git -> GitHub Sign Up -> Remote Repos -> Fork a Repo -> Clone a Repo -> Make/Manage Changes -> Pushing and Pulling -> Going Back in Time
 IF TIME PERMITS Creating Repos (Remote and Local) -> Ignoring Files -> Branching and Merging -> Pull Requests -> Stashing Changes
